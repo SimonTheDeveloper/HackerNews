@@ -1,0 +1,5 @@
+/.vs
+*.pdb
+/HackerNews/bin/Debug/netcoreapp2.1
+/HackerNews/obj
+*.user
